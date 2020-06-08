@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Screen Shots
 ![](screenshots/Capture1.PNG) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      ![](screenshots/Capture2.PNG)
+
+## License
+[MIT License](https://github.com/Dilshan1997/Advanced-Angular-calculator/blob/master/LICENSE).
